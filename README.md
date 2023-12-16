@@ -5,28 +5,28 @@ MachineLearning
 
 Bu proje, çeşitli makine öğrenimi konularını ve bu konularla ilgili popüler algoritmaları içermektedir. Aşağıda, bu projede bulunan temel konular ve örnek kodlar hakkında kısa bir özet bulabilirsiniz:
 
-# -Benzeşme Oranı (Similarity Ratio):
+ -Benzeşme Oranı (Similarity Ratio):
 Kullanıcı tarafından sağlanan iki metin arasındaki benzerlik oranını hesaplar.
 
-# -Shannon Entropi (Shannon Entropy):
+ -Shannon Entropi (Shannon Entropy):
 Bilgi içeriğini ölçen Shannon entropi hesaplamaları yapar.
 
-# -Naive Bayes:
+ -Naive Bayes:
 Naive Bayes sınıflandırma algoritması ile ilgili örnek bir uygulama.
 
-# -K-En Yakın Komşu (K-Nearest Neighbors):
+ -K-En Yakın Komşu (K-Nearest Neighbors):
 Veri noktaları arasındaki uzaklıklara dayalı sınıflandırma işlemleri.
 
-# -Yapay Sinir Ağları (Artificial Neural Networks):
+ -Yapay Sinir Ağları (Artificial Neural Networks):
 Derin öğrenme temelinde yapay sinir ağı uygulamaları.
 
-# -Karar Ağaçları (Decision Trees):
+ -Karar Ağaçları (Decision Trees):
 Veri kümesini ağaç yapısıyla sınıflandıran bir karar ağacı örneği.
 
-# -Destek Vektörel Makinaları (Support Vector Machines):
+ -Destek Vektörel Makinaları (Support Vector Machines):
 Destek vektör makineleri kullanarak sınıflandırma ve regresyon örnekleri
 
-# -Kümeleme Algoritmaları (Clustering Algorithms):
+ -Kümeleme Algoritmaları (Clustering Algorithms):
 Veri noktalarını benzer özelliklere göre gruplandıran kümeleme algoritmaları.
 
 Bu projenin detaylarına ve her bir algoritmanın kullanımına ilişkin daha fazla bilgi için lütfen ilgili klasörleri ve dokümantasyonu kontrol edin.
