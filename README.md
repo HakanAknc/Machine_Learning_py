@@ -1,7 +1,7 @@
 # Machine_Learning_py
 MachineLearning
 
- # Proje Adı: Makine Öğrenimi Algoritmaları ve Uygulamaları
+ # -Proje Adı: Makine Öğrenimi Algoritmaları ve Uygulamaları
 
 Bu proje, çeşitli makine öğrenimi konularını ve bu konularla ilgili popüler algoritmaları içermektedir. Aşağıda, bu projede bulunan temel konular ve örnek kodlar hakkında kısa bir özet bulabilirsiniz:
 
@@ -32,7 +32,7 @@ Veri noktalarını benzer özelliklere göre gruplandıran kümeleme algoritmala
 Bu projenin detaylarına ve her bir algoritmanın kullanımına ilişkin daha fazla bilgi için lütfen ilgili klasörleri ve dokümantasyonu kontrol edin.
 
 
-Project Name: Machine Learning Algorithms and Applications
+ # -Project Name: Machine Learning Algorithms and Applications
 
 This project encompasses various machine learning topics and popular algorithms associated with them. Below is a brief summary of key topics and example codes available in this project:
 
